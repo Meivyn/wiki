@@ -243,8 +243,6 @@ If you want to downgrade to `1.29.1` you can use the legacy branch method.
 
 1. Open ModAssistant go to the options tab and Uninstall BSIPA
 
-- If you have 1.30+ mods installed, press the Remove All Mods button instead.
-
 2. Go to the Beat Saber store page
 3. Scroll down to `Versions + Release Notes`
 4. Click on the word `(LIVE)` next to the current version number
