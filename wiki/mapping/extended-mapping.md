@@ -48,8 +48,9 @@ your maps in a different location.
 
 1. Start Beat Saber and then close out after the game finishes loading.
    This is to ensure the game is ready for mods to be installed.
-2. Open [Mod Assistant](https://github.com/bsmg/ModAssistant/releases/latest)
-3. Make sure the version selected in the dropdown is compatible with the Beat Saber version installed on your computer.
+2. Open your mod manager
+3. If using Mod Assistant, make sure the version selected in the dropdown is compatible
+   with the Beat Saber version installed on your computer.
 4. Check the checkbox for MappingExtensions. (You can select additional mods to install as well.)
 5. Click Install and Update and make sure there are no errors.
 6. Open Beat Saber again to initialize the mods you have installed then quit the game.

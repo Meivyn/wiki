@@ -57,10 +57,11 @@ You need to install the [PlaylistManager](https://github.com/rithik-b/PlaylistMa
 
 Then you can either:
 
-- Use the `Install Playlist` tool in the Options tab of Mod Assistant.
-- Place the playlist file into `Beat Saber/Playlists`, select the playlist title header in-game, then hit download all songs.
+- Install the playlist through your mod manager.
+- Place the playlist file into `Beat Saber/Playlists`, select the playlist title header in-game, then hit the `DOWNLOAD`
+  button to download all songs.
 
-You should see the playlist next to the Custom Levels album's in-game. The mod also supports managing playlists in-game.
+You should see the playlist next to the Custom Levels pack in-game. The mod also supports managing playlists.
 
 ### Quest
 
@@ -84,7 +85,7 @@ next time you sync your playlists through BMBF.
 
 See [mapping](/mapping/)!
 
-## How do I load PC mods that aren't in Mod Assistant or BSManager?
+## How do I load PC mods that aren't in my mod manager?
 
 See [this section](/pc-modding.md#manual-installation) in the beginners guide.
 

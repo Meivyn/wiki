@@ -24,7 +24,7 @@ on the status of mods. The following are more detailed instructions of the most 
 ### Update broke my mods
 
 **Run the game once** on the new update. Then, reinstall your mods using an installer
-linked in the [beginner's guide](/beginners-guide), such as Mod Assistant.
+linked in the [beginner's guide](/beginners-guide).
 
 ## 1. No mods?
 
@@ -47,7 +47,7 @@ If the details in section 1.1 above are correct, try the solutions below, in des
 
 ##### Solution 1
 
-- Update BSIPA to the latest version (in Mod Assistant or manually)
+- Update BSIPA to the latest version
 - Go into your Beat Saber folder
 - Run `IPA.exe`
 
@@ -72,7 +72,7 @@ This will reset all mod settings!
 
 - Perform a [Clean Installation](#clean-installation)
 
-#### 1.2 Mod Assistant doesn't seem to be installing any mods
+#### 1.2 My mod manager doesn't seem to be installing any mods
 
 The installers download mods to `Beat Saber/IPA/Pending`, BSIPA moves these files to root folder when you launch the game.
 If your game Plugins folder still is empty afterwards, run `IPA.exe` again and make sure that nothing is preventing it
@@ -159,7 +159,7 @@ This will delete your local scores and statistics.
 
 #### 3.2 How do I use `x` mod?
 
-If you're using Mod Assistant, click the mod and hit the "Mod Info" button.
+Click the mod and hit the "Mod Info" button in your mod manager. It might be named differently depending on the one you use.
 [BeatMods](http://beatmods.com) has a "More Info" button on each mod as well.
 
 #### 3.3 Rumble Issues
@@ -319,8 +319,7 @@ the steps are still the same.
 > Oculus: `\hyperbolic-magnetism-beat-saber\`
 
 3. Reinstall the game via the Steam or Oculus store
-4. **Before modding, launch the game once**
-5. Run Mod Assistant, install your mods, and boot up the game.
+4. Run your mod manager, install your mods, and boot up the game.
 
 (Optional) If you want to take it one step further, refer To: [Deleting The Beatsaber Folder Within Your AppData](#deleting-your-save-in-appdata)
 

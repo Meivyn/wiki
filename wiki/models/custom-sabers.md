@@ -17,8 +17,7 @@ a saber is for by the file extension. `.saber` files are for PC while Quest uses
 
 The latest mod for Custom Sabers is now called Saber Factory,
 and can be found in the [#pc-mods channel](https://discord.gg/beatsabermods) in the BSMG Discord
-or in [Mod Assistant](https://github.com/Assistant/ModAssistant). Run Mod Assistant, select the Saber
-Factory mod, and click Install.
+or in your mod manager.
 
 If it is not available in the above sources, you can visit the [SaberFactory Discord](https://discord.gg/PjD7WcChH3) for
 more information or check the [GitHub Page](https://github.com/ToniMacaroni/SaberFactory/releases) for the mod.
