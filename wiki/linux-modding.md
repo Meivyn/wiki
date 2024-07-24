@@ -17,10 +17,6 @@ Using mods in Linux isn't supported by mod developers, so you might encounter bu
 
 ### Using BeatSaberModManager
 
-::: danger
-**Run the game at least once** before trying to mod the game! This applies to reinstalling your game too.
-:::
-
 1. Download BeatSaberModManager from [Github](https://github.com/affederaffe/BeatSaberModManager/releases) and
    extract it to a directory on your system.
 
@@ -33,10 +29,6 @@ Using mods in Linux isn't supported by mod developers, so you might encounter bu
 5. Start Beat Saber. Your mods should be installed.
 
 ### Using Beataroni
-
-::: danger
-**Run the game at least once** before trying to mod the game! This applies to reinstalling your game too.
-:::
 
 1. Download Beataroni from [GitHub](https://github.com/geefr/beatsaber-linux-goodies/releases) and
    extract it to a directory on your system.
@@ -62,10 +54,6 @@ tar -xzf Beataroni-linux64-1.0.tar.gz
 6. Start Beat Saber. Your mods should be installed.
 
 ### Using Wine and Winetricks
-
-::: danger
-**Run the game at least once** before trying to mod the game! This applies to reinstalling your game too.
-:::
 
 Make sure you have [Wine](https://wiki.winehq.org/Download) and [Winetricks](https://github.com/Winetricks/winetricks/blob/master/README.md)
 installed before starting.
@@ -119,10 +107,6 @@ After running the command, you should then see this error window. Click ok.
 7. Start Beat Saber and check if the mods are installed. If they aren't you may need to [do a DLL override](#dll-override)
 
 ### Using a Virtual Machine
-
-::: danger
-**Run the game at least once** before trying to mod the game! This applies to reinstalling your game too.
-:::
 
 Make sure you have [VirtualBox](https://www.virtualbox.org/wiki/Linux_Downloads) installed before starting.
 
